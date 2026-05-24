@@ -1,5 +1,5 @@
 # Food Delivery Sales Analysis Dashboard (Excel)
-Food delivery sales analysis report built in Excel utilizing Pivot Tables, advanced KPI calculations, and interactive slicers to turn raw transactional data into business insights.
+
 ## 📌 Project Overview
 
 The **Food Delivery Sales Analysis Dashboard** is an interactive Excel report designed to **turn complex sales data into actionable business insights**.  
